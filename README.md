@@ -7,4 +7,5 @@ Very simple .py script that i made for Wayfinder game. The script's purpose is t
 P.S. 
 
 line 6 - you can edit keys you want to be pressed
+
 line 16 - you can edit wait delay before script starts
