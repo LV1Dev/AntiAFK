@@ -5,6 +5,7 @@ The script's purpose is to keep the player character active in the game by simul
 
 ⏱️ once when you run it you have 5 seconds to go back to your game
 
-P.S. 
+P.S.
+
 line 6 - you can edit keys you want to be pressed
 line 16 - you can edit wait delay before script starts
