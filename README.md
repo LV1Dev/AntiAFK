@@ -1,0 +1,2 @@
+# AntiAFK
+AntiAFK py script
